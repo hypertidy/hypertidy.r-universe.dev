@@ -1,0 +1,106 @@
+[
+  {
+    "package": "vapour",
+    "url": "https://github.com/hypertidy/vapour"
+  },
+  {
+    "package": "gdalio",
+    "url": "https://github.com/hypertidy/gdalio"
+  },
+  {
+    "package": "affinity",
+    "url": "https://github.com/hypertidy/affinity"
+  },
+  {
+    "package": "granulated",
+    "url": "https://github.com/hypertidy/granulated"
+  },
+  {
+    "package": "cells",
+    "url": "https://github.com/hypertidy/cells"
+  },
+  {
+    "package": "geodist",
+    "url": "https://github.com/hypertidy/geodist"
+  },
+  {
+    "package": "gdalwebsrv",
+    "url": "https://github.com/hypertidy/gdalwebsrv"
+  },
+  {
+    "package": "sfdct",
+    "url": "https://github.com/hypertidy/sfdct"
+  },
+  {
+    "package": "ncmeta",
+    "url": "https://github.com/hypertidy/ncmeta"
+  },
+  {
+    "package": "tabularaster",
+    "url": "https://github.com/hypertidy/tabularaster"
+  },
+  {
+    "package": "quadmesh",
+    "url": "https://github.com/hypertidy/quadmesh"
+  },
+  {
+    "package": "ceramic",
+    "url": "https://github.com/hypertidy/ceramic"
+  },
+  {
+    "package": "anglr",
+    "url": "https://github.com/hypertidy/anglr"
+  },
+  {
+    "package": "silicate",
+    "url": "https://github.com/hypertidy/silicate"
+  },
+  {
+    "package": "PROJ",
+    "url": "https://github.com/hypertidy/PROJ"
+  },
+  {
+    "package": "lazyvector",
+    "url": "https://github.com/hypertidy/lazyvector"
+  },
+  {
+    "package": "reproj",
+    "url": "https://github.com/hypertidy/reproj"
+  },
+  {
+    "package": "lazyraster",
+    "url": "https://github.com/hypertidy/lazyraster"
+  },
+  {
+    "package": "textures",
+    "url": "https://github.com/hypertidy/textures"
+  },
+  {
+    "package": "grout",
+    "url": "https://github.com/hypertidy/grout"
+  },
+  {
+    "package": "area",
+    "url": "https://github.com/hypertidy/area"
+  },
+  {
+    "package": "decido",
+    "url": "https://github.com/hypertidy/decido"
+  },
+  {
+    "package": "kekule",
+    "url": "https://github.com/hypertidy/kekule"
+  },
+  {
+    "package": "unjoin",
+    "url": "https://github.com/hypertidy/unjoin"
+  },
+  {
+    "package": "guerrilla",
+    "url": "https://github.com/hypertidy/guerrilla"
+  },
+  {
+    "package": "crsmeta",
+    "url": "https://github.com/hypertidy/crsmeta"
+  }
+]
