@@ -5,11 +5,11 @@ d <- tibble::tibble(package = c("activate", "affinity", "anglr", "area", "cartil
                                 "crsmeta", "decido", "discrete", "ffraster",  "gdalio",
                                  "gdalwebsrv", "geodist", "gladr", "granulated", "gridcol",
                                 "grout", "guerrilla",
-                                "kekule",  "lazyraster", "lazyvector", "manifoldr",
+                                "kekule",  "lazyraster",  "manifoldr",
                                  "ncapi", "ncdump", "ncmeta", "pfft",
                                 "PROJ", "quadmesh",  "realm", "rearcut",
                                 "reproj", "scdb", "scgraph", "scspatstat", "sfdct", "silicate",
-                                "sphier", "svgplotr", "tabularaster", "textures", "tidyff",
+                                "svgplotr", "tabularaster", "textures", "tidyff",
                                 "unjoin", "vapour", "vtkr")
 )
 d$url <- sprintf("https://github.com/hypertidy/%s", d$package)

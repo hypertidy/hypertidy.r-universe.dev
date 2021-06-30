@@ -100,10 +100,6 @@
     "url": "https://github.com/hypertidy/lazyraster"
   },
   {
-    "package": "lazyvector",
-    "url": "https://github.com/hypertidy/lazyvector"
-  },
-  {
     "package": "manifoldr",
     "url": "https://github.com/hypertidy/manifoldr"
   },
@@ -162,10 +158,6 @@
   {
     "package": "silicate",
     "url": "https://github.com/hypertidy/silicate"
-  },
-  {
-    "package": "sphier",
-    "url": "https://github.com/hypertidy/sphier"
   },
   {
     "package": "svgplotr",
