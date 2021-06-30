@@ -1,106 +1,198 @@
 [
   {
-    "package": "vapour",
-    "url": "https://github.com/hypertidy/vapour"
-  },
-  {
-    "package": "gdalio",
-    "url": "https://github.com/hypertidy/gdalio"
+    "package": "activate",
+    "url": "https://github.com/hypertidy/activate"
   },
   {
     "package": "affinity",
     "url": "https://github.com/hypertidy/affinity"
   },
   {
-    "package": "granulated",
-    "url": "https://github.com/hypertidy/granulated"
-  },
-  {
-    "package": "cells",
-    "url": "https://github.com/hypertidy/cells"
-  },
-  {
-    "package": "geodist",
-    "url": "https://github.com/hypertidy/geodist"
-  },
-  {
-    "package": "gdalwebsrv",
-    "url": "https://github.com/hypertidy/gdalwebsrv"
-  },
-  {
-    "package": "sfdct",
-    "url": "https://github.com/hypertidy/sfdct"
-  },
-  {
-    "package": "ncmeta",
-    "url": "https://github.com/hypertidy/ncmeta"
-  },
-  {
-    "package": "tabularaster",
-    "url": "https://github.com/hypertidy/tabularaster"
-  },
-  {
-    "package": "quadmesh",
-    "url": "https://github.com/hypertidy/quadmesh"
-  },
-  {
-    "package": "ceramic",
-    "url": "https://github.com/hypertidy/ceramic"
-  },
-  {
     "package": "anglr",
     "url": "https://github.com/hypertidy/anglr"
-  },
-  {
-    "package": "silicate",
-    "url": "https://github.com/hypertidy/silicate"
-  },
-  {
-    "package": "PROJ",
-    "url": "https://github.com/hypertidy/PROJ"
-  },
-  {
-    "package": "lazyvector",
-    "url": "https://github.com/hypertidy/lazyvector"
-  },
-  {
-    "package": "reproj",
-    "url": "https://github.com/hypertidy/reproj"
-  },
-  {
-    "package": "lazyraster",
-    "url": "https://github.com/hypertidy/lazyraster"
-  },
-  {
-    "package": "textures",
-    "url": "https://github.com/hypertidy/textures"
-  },
-  {
-    "package": "grout",
-    "url": "https://github.com/hypertidy/grout"
   },
   {
     "package": "area",
     "url": "https://github.com/hypertidy/area"
   },
   {
+    "package": "cartilage",
+    "url": "https://github.com/hypertidy/cartilage"
+  },
+  {
+    "package": "cdt",
+    "url": "https://github.com/hypertidy/cdt"
+  },
+  {
+    "package": "cells",
+    "url": "https://github.com/hypertidy/cells"
+  },
+  {
+    "package": "ceramic",
+    "url": "https://github.com/hypertidy/ceramic"
+  },
+  {
+    "package": "clipper",
+    "url": "https://github.com/hypertidy/clipper"
+  },
+  {
+    "package": "CMIP5files",
+    "url": "https://github.com/hypertidy/CMIP5files"
+  },
+  {
+    "package": "contourPolys",
+    "url": "https://github.com/hypertidy/contourPolys"
+  },
+  {
+    "package": "crsmeta",
+    "url": "https://github.com/hypertidy/crsmeta"
+  },
+  {
     "package": "decido",
     "url": "https://github.com/hypertidy/decido"
   },
   {
-    "package": "kekule",
-    "url": "https://github.com/hypertidy/kekule"
+    "package": "discrete",
+    "url": "https://github.com/hypertidy/discrete"
   },
   {
-    "package": "unjoin",
-    "url": "https://github.com/hypertidy/unjoin"
+    "package": "ffraster",
+    "url": "https://github.com/hypertidy/ffraster"
+  },
+  {
+    "package": "gdalio",
+    "url": "https://github.com/hypertidy/gdalio"
+  },
+  {
+    "package": "gdalwebsrv",
+    "url": "https://github.com/hypertidy/gdalwebsrv"
+  },
+  {
+    "package": "geodist",
+    "url": "https://github.com/hypertidy/geodist"
+  },
+  {
+    "package": "gladr",
+    "url": "https://github.com/hypertidy/gladr"
+  },
+  {
+    "package": "granulated",
+    "url": "https://github.com/hypertidy/granulated"
+  },
+  {
+    "package": "gridcol",
+    "url": "https://github.com/hypertidy/gridcol"
+  },
+  {
+    "package": "grout",
+    "url": "https://github.com/hypertidy/grout"
   },
   {
     "package": "guerrilla",
     "url": "https://github.com/hypertidy/guerrilla"
   },
   {
-    "package": "crsmeta",
-    "url": "https://github.com/hypertidy/crsmeta"
+    "package": "kekule",
+    "url": "https://github.com/hypertidy/kekule"
+  },
+  {
+    "package": "lazyraster",
+    "url": "https://github.com/hypertidy/lazyraster"
+  },
+  {
+    "package": "lazyvector",
+    "url": "https://github.com/hypertidy/lazyvector"
+  },
+  {
+    "package": "manifoldr",
+    "url": "https://github.com/hypertidy/manifoldr"
+  },
+  {
+    "package": "ncapi",
+    "url": "https://github.com/hypertidy/ncapi"
+  },
+  {
+    "package": "ncdump",
+    "url": "https://github.com/hypertidy/ncdump"
+  },
+  {
+    "package": "ncmeta",
+    "url": "https://github.com/hypertidy/ncmeta"
+  },
+  {
+    "package": "pfft",
+    "url": "https://github.com/hypertidy/pfft"
+  },
+  {
+    "package": "PROJ",
+    "url": "https://github.com/hypertidy/PROJ"
+  },
+  {
+    "package": "quadmesh",
+    "url": "https://github.com/hypertidy/quadmesh"
+  },
+  {
+    "package": "realm",
+    "url": "https://github.com/hypertidy/realm"
+  },
+  {
+    "package": "rearcut",
+    "url": "https://github.com/hypertidy/rearcut"
+  },
+  {
+    "package": "reproj",
+    "url": "https://github.com/hypertidy/reproj"
+  },
+  {
+    "package": "scdb",
+    "url": "https://github.com/hypertidy/scdb"
+  },
+  {
+    "package": "scgraph",
+    "url": "https://github.com/hypertidy/scgraph"
+  },
+  {
+    "package": "scspatstat",
+    "url": "https://github.com/hypertidy/scspatstat"
+  },
+  {
+    "package": "sfdct",
+    "url": "https://github.com/hypertidy/sfdct"
+  },
+  {
+    "package": "silicate",
+    "url": "https://github.com/hypertidy/silicate"
+  },
+  {
+    "package": "sphier",
+    "url": "https://github.com/hypertidy/sphier"
+  },
+  {
+    "package": "svgplotr",
+    "url": "https://github.com/hypertidy/svgplotr"
+  },
+  {
+    "package": "tabularaster",
+    "url": "https://github.com/hypertidy/tabularaster"
+  },
+  {
+    "package": "textures",
+    "url": "https://github.com/hypertidy/textures"
+  },
+  {
+    "package": "tidyff",
+    "url": "https://github.com/hypertidy/tidyff"
+  },
+  {
+    "package": "unjoin",
+    "url": "https://github.com/hypertidy/unjoin"
+  },
+  {
+    "package": "vapour",
+    "url": "https://github.com/hypertidy/vapour"
+  },
+  {
+    "package": "vtkr",
+    "url": "https://github.com/hypertidy/vtkr"
   }
 ]
