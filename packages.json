@@ -96,6 +96,10 @@
     "url": "https://github.com/hypertidy/lazyraster"
   },
   {
+    "package": "lazysf",
+    "url": "https://github.com/hypertidy/lazysf"
+  },
+  {
     "package": "manifoldr",
     "url": "https://github.com/hypertidy/manifoldr"
   },
