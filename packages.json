@@ -175,6 +175,11 @@
     "package": "tidyff",
     "url": "https://github.com/hypertidy/tidyff"
   },
+    {
+    "package": "tissot",
+    "url": "https://github.com/hypertidy/tissot"
+  },
+
   {
     "package": "unjoin",
     "url": "https://github.com/hypertidy/unjoin"
