@@ -16,6 +16,10 @@
     "url": "https://github.com/hypertidy/area"
   },
   {
+    "package": "bigcurve",
+    "url": "https://github.com/hypertidy/bigcurve"
+  },
+  {
     "package": "cdt",
     "url": "https://github.com/hypertidy/cdt"
   },
@@ -40,8 +44,16 @@
     "url": "https://github.com/hypertidy/contourPolys"
   },
   {
+    "package": "controlledburn",
+    "url": "https://github.com/hypertidy/controlledburn"
+  },
+  {
     "package": "crsmeta",
     "url": "https://github.com/hypertidy/crsmeta"
+  },
+  {
+    "package": "delone",
+    "url": "https://github.com/hypertidy/delone"
   },
   {
     "package": "decido",
@@ -52,9 +64,22 @@
     "url": "https://github.com/hypertidy/discrete"
   },
   {
+    "package": "earthcircle",
+    "url": "https://github.com/hypertidy/earthcircle"
+  },
+  {
+    "package": "xisoband",
+    "url": "https://github.com/hypertidy/xisoband"
+  },
+  {
     "package": "ffraster",
     "url": "https://github.com/hypertidy/ffraster"
   },
+  {
+    "package": "futility",
+    "url": "https://github.com/hypertidy/futility"
+  },
+
   {
     "package": "gdalio",
     "url": "https://github.com/hypertidy/gdalio"
@@ -64,8 +89,16 @@
     "url": "https://github.com/hypertidy/gdalwebsrv"
   },
   {
+    "package": "geoarea",
+    "url": "https://github.com/hypertidy/geoarea"
+  },
+  {
     "package": "geodist",
     "url": "https://github.com/hypertidy/geodist"
+  },
+  {
+    "package": "ggdal",
+    "url": "https://github.com/hypertidy/ggdal"
   },
   {
     "package": "gladr",
@@ -75,6 +108,11 @@
     "package": "granulated",
     "url": "https://github.com/hypertidy/granulated"
   },
+  {
+    "package": "graticule",
+    "url": "https://github.com/hypertidy/graticule"
+  },
+
   {
     "package": "gridcol",
     "url": "https://github.com/hypertidy/gridcol"
@@ -100,8 +138,16 @@
     "url": "https://github.com/hypertidy/lazysf"
   },
   {
+    "package": "L3Bin",
+    "url": "https://github.com/hypertidy/L3Bin"
+  },
+  {
     "package": "manifoldr",
     "url": "https://github.com/hypertidy/manifoldr"
+  },
+  {
+    "package": "mesh3d",
+    "url": "https://github.com/hypertidy/mesh3d"
   },
   {
     "package": "ncapi",
@@ -120,8 +166,22 @@
     "url": "https://github.com/hypertidy/pfft"
   },
   {
+    "package": "polymer",
+    "url": "https://github.com/hypertidy/polymer"
+  },
+  {
+    "package": "plover",
+    "url": "https://github.com/hypertidy/plover"
+  },
+
+  {
     "package": "PROJ",
     "url": "https://github.com/hypertidy/PROJ"
+  }
+  ,
+  {
+    "package": "quad",
+    "url": "https://github.com/hypertidy/quad"
   },
   {
     "package": "quadmesh",
@@ -193,7 +253,36 @@
     "url": "https://github.com/hypertidy/vapour"
   },
   {
+    "package": "vaster",
+    "url": "https://github.com/hypertidy/vaster"
+  },
+  {
     "package": "vtkr",
     "url": "https://github.com/hypertidy/vtkr"
+  },
+  {
+    "package": "whatarelief",
+    "url": "https://github.com/hypertidy/whatarelief"
+  },
+  {
+    "package": "ximage",
+    "url": "https://github.com/hypertidy/ximage"
+  },
+  {
+    "package": "xisoband",
+    "url": "https://github.com/hypertidy/xisoband"
+  },
+  {
+    "package": "xplot",
+    "url": "https://github.com/hypertidy/xplot"
+  },
+  {
+    "package": "wince",
+    "url": "https://github.com/hypertidy/wince"
+  },
+  {
+    "package": "zarrr",
+    "url": "https://github.com/hypertidy/zarrr"
   }
+
 ]
