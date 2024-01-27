@@ -64,6 +64,10 @@
     "url": "https://github.com/hypertidy/discrete"
   },
   {
+    "package": "dsn",
+    "url": "https://github.com/hypertidy/dsn"
+  },
+  {
     "package": "earthcircle",
     "url": "https://github.com/hypertidy/earthcircle"
   },
