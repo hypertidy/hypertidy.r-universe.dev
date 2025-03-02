@@ -76,6 +76,10 @@
     "url": "https://github.com/hypertidy/xisoband"
   },
   {
+    "package": "fasterize",
+    "url": "https://github.com/hypertidy/fasterize"
+  },
+  {
     "package": "ffraster",
     "url": "https://github.com/hypertidy/ffraster"
   },
