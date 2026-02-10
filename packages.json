@@ -36,6 +36,10 @@
     "url": "https://github.com/hypertidy/clipper"
   },
   {
+    "package": "cmemsarco",
+    "url": "https://github.com/hypertidy/cmemsarco"
+  },
+  {
     "package": "CMIP5files",
     "url": "https://github.com/hypertidy/CMIP5files"
   },
@@ -52,12 +56,12 @@
     "url": "https://github.com/hypertidy/crsmeta"
   },
   {
-    "package": "delone",
-    "url": "https://github.com/hypertidy/delone"
-  },
-  {
     "package": "decido",
     "url": "https://github.com/hypertidy/decido"
+  },
+  {
+    "package": "delone",
+    "url": "https://github.com/hypertidy/delone"
   },
   {
     "package": "discrete",
@@ -72,10 +76,6 @@
     "url": "https://github.com/hypertidy/earthcircle"
   },
   {
-    "package": "xisoband",
-    "url": "https://github.com/hypertidy/xisoband"
-  },
-  {
     "package": "fasterize",
     "url": "https://github.com/hypertidy/fasterize"
   },
@@ -84,13 +84,16 @@
     "url": "https://github.com/hypertidy/ffraster"
   },
   {
+    "package": "filearchy",
+    "url": "https://github.com/hypertidy/filearchy"
+  },
+  {
     "package": "futility",
     "url": "https://github.com/hypertidy/futility"
   },
-
   {
-    "package": "gdalio",
-    "url": "https://github.com/hypertidy/gdalio"
+    "package": "gdalblock",
+    "url": "https://github.com/hypertidy/gdalblock"
   },
   {
     "package": "gdalwebsrv",
@@ -103,6 +106,10 @@
   {
     "package": "geodist",
     "url": "https://github.com/hypertidy/geodist"
+  },
+  {
+    "package": "geographiclib",
+    "url": "https://github.com/hypertidy/geographiclib"
   },
   {
     "package": "ggdal",
@@ -120,7 +127,6 @@
     "package": "graticule",
     "url": "https://github.com/hypertidy/graticule"
   },
-
   {
     "package": "gridcol",
     "url": "https://github.com/hypertidy/gridcol"
@@ -134,8 +140,16 @@
     "url": "https://github.com/hypertidy/guerrilla"
   },
   {
+    "package": "isoraster",
+    "url": "https://github.com/hypertidy/isoraster"
+  },
+  {
     "package": "kekule",
     "url": "https://github.com/hypertidy/kekule"
+  },
+  {
+    "package": "L3bin",
+    "url": "https://github.com/hypertidy/L3bin"
   },
   {
     "package": "lazyraster",
@@ -144,10 +158,6 @@
   {
     "package": "lazysf",
     "url": "https://github.com/hypertidy/lazysf"
-  },
-  {
-    "package": "L3bin",
-    "url": "https://github.com/hypertidy/L3bin"
   },
   {
     "package": "manifoldr",
@@ -162,10 +172,6 @@
     "url": "https://github.com/hypertidy/ncapi"
   },
   {
-    "package": "ncdump",
-    "url": "https://github.com/hypertidy/ncdump"
-  },
-  {
     "package": "ncmeta",
     "url": "https://github.com/hypertidy/ncmeta"
   },
@@ -174,19 +180,17 @@
     "url": "https://github.com/hypertidy/pfft"
   },
   {
+    "package": "plover",
+    "url": "https://github.com/hypertidy/plover"
+  },
+  {
     "package": "polymer",
     "url": "https://github.com/hypertidy/polymer"
   },
   {
-    "package": "plover",
-    "url": "https://github.com/hypertidy/plover"
-  },
-
-  {
     "package": "PROJ",
     "url": "https://github.com/hypertidy/PROJ"
-  }
-  ,
+  },
   {
     "package": "quad",
     "url": "https://github.com/hypertidy/quad"
@@ -194,6 +198,10 @@
   {
     "package": "quadmesh",
     "url": "https://github.com/hypertidy/quadmesh"
+  },
+  {
+    "package": "readwfs",
+    "url": "https://github.com/hypertidy/readwfs"
   },
   {
     "package": "realm",
@@ -220,12 +228,20 @@
     "url": "https://github.com/hypertidy/scspatstat"
   },
   {
+    "package": "sds",
+    "url": "https://github.com/hypertidy/sds"
+  },
+  {
     "package": "sfdct",
     "url": "https://github.com/hypertidy/sfdct"
   },
   {
     "package": "silicate",
     "url": "https://github.com/hypertidy/silicate"
+  },
+  {
+    "package": "starc",
+    "url": "https://github.com/hypertidy/starc"
   },
   {
     "package": "svgplotr",
@@ -243,15 +259,18 @@
     "package": "tidyff",
     "url": "https://github.com/hypertidy/tidyff"
   },
-    {
+  {
+    "package": "timenow",
+    "url": "https://github.com/hypertidy/timenow"
+  },
+  {
     "package": "tissot",
     "url": "https://github.com/hypertidy/tissot"
   },
-    {
+  {
     "package": "topography",
     "url": "https://github.com/hypertidy/topography"
   },
-
   {
     "package": "unjoin",
     "url": "https://github.com/hypertidy/unjoin"
@@ -265,12 +284,24 @@
     "url": "https://github.com/hypertidy/vaster"
   },
   {
+    "package": "vsils",
+    "url": "https://github.com/hypertidy/vsils"
+  },
+  {
     "package": "vtkr",
     "url": "https://github.com/hypertidy/vtkr"
   },
   {
     "package": "whatarelief",
     "url": "https://github.com/hypertidy/whatarelief"
+  },
+  {
+    "package": "wince",
+    "url": "https://github.com/hypertidy/wince"
+  },
+  {
+    "package": "wkpool",
+    "url": "https://github.com/hypertidy/wkpool"
   },
   {
     "package": "ximage",
@@ -285,12 +316,7 @@
     "url": "https://github.com/hypertidy/xplot"
   },
   {
-    "package": "wince",
-    "url": "https://github.com/hypertidy/wince"
-  },
-  {
     "package": "zarrr",
     "url": "https://github.com/hypertidy/zarrr"
   }
-
 ]
