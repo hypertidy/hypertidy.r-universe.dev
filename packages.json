@@ -116,10 +116,6 @@
     "url": "https://github.com/hypertidy/geographiclib"
   },
   {
-    "package": "ggdal",
-    "url": "https://github.com/hypertidy/ggdal"
-  },
-  {
     "package": "gladr",
     "url": "https://github.com/hypertidy/gladr"
   },
