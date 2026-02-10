@@ -52,6 +52,10 @@
     "url": "https://github.com/hypertidy/controlledburn"
   },
   {
+    "package": "croc",
+    "url": "https://github.com/sosoc/croc"
+  },
+  {
     "package": "crsmeta",
     "url": "https://github.com/hypertidy/crsmeta"
   },
@@ -214,6 +218,10 @@
   {
     "package": "reproj",
     "url": "https://github.com/hypertidy/reproj"
+  },
+  {
+    "package": "rvgpm",
+    "url": "https://github.com/sosoc/rvgpm"
   },
   {
     "package": "scdb",
