@@ -160,12 +160,20 @@
     "url": "https://github.com/hypertidy/lazysf"
   },
   {
+    "package": "location",
+    "url": "https://github.com/hypertidy/location"
+  },
+  {
     "package": "manifoldr",
     "url": "https://github.com/hypertidy/manifoldr"
   },
   {
     "package": "mesh3d",
     "url": "https://github.com/hypertidy/mesh3d"
+  },
+  {
+    "package": "mgrsrev",
+    "url": "https://github.com/hypertidy/mgrsrev"
   },
   {
     "package": "ncapi",
@@ -214,6 +222,10 @@
   {
     "package": "reproj",
     "url": "https://github.com/hypertidy/reproj"
+  },
+  {
+    "package": "rustycogs",
+    "url": "https://github.com/hypertidy/rustycogs"
   },
   {
     "package": "rvgpm",
@@ -318,6 +330,10 @@
   {
     "package": "xplot",
     "url": "https://github.com/hypertidy/xplot"
+  },
+  {
+    "package": "zaro",
+    "url": "https://github.com/hypertidy/zaro"
   },
   {
     "package": "zarrr",
