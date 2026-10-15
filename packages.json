@@ -8,6 +8,10 @@
     "url": "https://github.com/hypertidy/affinity"
   },
   {
+    "package": "altarr",
+    "url": "https://github.com/hypertidy/altarr"
+  },
+  {
     "package": "anglr",
     "url": "https://github.com/hypertidy/anglr"
   },
@@ -20,8 +24,16 @@
     "url": "https://github.com/hypertidy/bigcurve"
   },
   {
+    "package": "blocklist",
+    "url": "https://github.com/hypertidy/blocklist"
+  },
+  {
     "package": "cdt",
     "url": "https://github.com/hypertidy/cdt"
+  },
+  {
+    "package": "cdtr",
+    "url": "https://github.com/hypertidy/cdtr"
   },
   {
     "package": "cells",
@@ -44,6 +56,10 @@
     "url": "https://github.com/hypertidy/CMIP5files"
   },
   {
+    "package": "cmrlifecycle",
+    "url": "https://github.com/hypertidy/cmrlifecycle"
+  },
+  {
     "package": "contourPolys",
     "url": "https://github.com/hypertidy/contourPolys"
   },
@@ -58,6 +74,10 @@
   {
     "package": "crsmeta",
     "url": "https://github.com/hypertidy/crsmeta"
+  },
+  {
+    "package": "cvr",
+    "url": "https://github.com/hypertidy/cvr"
   },
   {
     "package": "decido",
@@ -132,6 +152,10 @@
     "url": "https://github.com/hypertidy/gridcol"
   },
   {
+    "package": "gris",
+    "url": "https://github.com/hypertidy/gris"
+  },
+  {
     "package": "grout",
     "url": "https://github.com/hypertidy/grout"
   },
@@ -152,6 +176,10 @@
     "url": "https://github.com/hypertidy/L3bin"
   },
   {
+    "package": "laridae",
+    "url": "https://github.com/hypertidy/laridae"
+  },
+  {
     "package": "lazyraster",
     "url": "https://github.com/hypertidy/lazyraster"
   },
@@ -170,6 +198,10 @@
   {
     "package": "mesh3d",
     "url": "https://github.com/hypertidy/mesh3d"
+  },
+  {
+    "package": "meshcore",
+    "url": "https://github.com/hypertidy/meshcore"
   },
   {
     "package": "mgrsrev",
@@ -200,6 +232,10 @@
     "url": "https://github.com/hypertidy/PROJ"
   },
   {
+    "package": "projr",
+    "url": "https://github.com/hypertidy/projr"
+  },
+  {
     "package": "quad",
     "url": "https://github.com/hypertidy/quad"
   },
@@ -222,6 +258,10 @@
   {
     "package": "reproj",
     "url": "https://github.com/hypertidy/reproj"
+  },
+  {
+    "package": "rgeodesy",
+    "url": "https://github.com/hypertidy/rgeodesy"
   },
   {
     "package": "rustycogs",
@@ -276,6 +316,10 @@
     "url": "https://github.com/hypertidy/tidyff"
   },
   {
+    "package": "tilemath",
+    "url": "https://github.com/hypertidy/tilemath"
+  },
+  {
     "package": "timenow",
     "url": "https://github.com/hypertidy/timenow"
   },
@@ -288,6 +332,10 @@
     "url": "https://github.com/hypertidy/topography"
   },
   {
+    "package": "trowel",
+    "url": "https://github.com/hypertidy/trowel"
+  },
+  {
     "package": "unjoin",
     "url": "https://github.com/hypertidy/unjoin"
   },
@@ -298,6 +346,10 @@
   {
     "package": "vaster",
     "url": "https://github.com/hypertidy/vaster"
+  },
+  {
+    "package": "vrtstack",
+    "url": "https://github.com/hypertidy/vrtstack"
   },
   {
     "package": "vsils",
