@@ -216,6 +216,10 @@
     "url": "https://github.com/hypertidy/ncmeta"
   },
   {
+    "package": "ndr",
+    "url": "https://github.com/hypertidy/ndr"
+  },
+  {
     "package": "pfft",
     "url": "https://github.com/hypertidy/pfft"
   },
