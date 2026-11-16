@@ -163,6 +163,12 @@
     "package": "guerrilla",
     "url": "https://github.com/hypertidy/guerrilla"
   },
+      {
+      "package": "icechunkr",
+      "url": "https://github.com/hypertidy/icechunkr"
+    },
+
+
   {
     "package": "isoraster",
     "url": "https://github.com/hypertidy/isoraster"
